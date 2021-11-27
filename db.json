@@ -1,0 +1,34 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "description": "Doctors Appointment",
+      "day": "May 5 at 2:30 pm",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "description": "Gym Exercise",
+      "day": "May 6 at 6:30 pm",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "description": "Health Conference",
+      "day": "May 7 at 10:30 am",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "description": "Acquaintance Meetup",
+      "day": "May 7 at 5:30 pm",
+      "reminder": false
+    },
+    {
+      "id": 5,
+      "description": "Grocery Shopping",
+      "day": "May 8 at 11:30 am",
+      "reminder": true
+    }
+  ]
+}
