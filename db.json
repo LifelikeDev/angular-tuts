@@ -29,6 +29,18 @@
       "description": "Grocery Shopping",
       "day": "May 8 at 11:30 am",
       "reminder": true
+    },
+    {
+      "id": 6,
+      "description": "Hobby time",
+      "day": "May 9 at 1:00 pm",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "description": "Personal studies",
+      "day": "May 9 at 7:00 pm",
+      "reminder": true
     }
   ]
 }
