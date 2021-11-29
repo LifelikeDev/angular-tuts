@@ -52,7 +52,7 @@
       "id": 9,
       "description": "Online shopping",
       "day": "May 10 at 11:00 am",
-      "reminder": true
+      "reminder": false
     },
     {
       "id": 10,
